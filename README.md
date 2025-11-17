@@ -4,8 +4,8 @@ I'm a Information Science engineering student passionate about building real-wor
 
 Languages: Python (Intermediate), Java (Intermediate), SQL (Intermediate)
 Web: HTML, CSS, JavaScript (Intermediate), React (Novice)
-UI/UX: Figma (Novice), Canva (Intermediate)
-DevOps: Ubuntu CLI, Git & GitHub (Intermediate)
+,Canva (Intermediate)
+,Git & GitHub (Intermediate)
 AI/ML: Beginner knowledge of AI assistants and GenAI-based projects
 🚀 Goals:
 
